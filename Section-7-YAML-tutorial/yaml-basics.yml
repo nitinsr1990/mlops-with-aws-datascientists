@@ -28,11 +28,11 @@ dev_details:
     email: "support@manifoldailearning.in"
     role: "Editor"  
   - {name: "navishka", email: "support@manifoldailearning.in", role: "Finance"}
-short_description: >
+short_description: >        # treats as one line if > is used
   This is a course for 
   AWS DevOps Professional
   Certification
-detailed_description: |
+detailed_description: |     # treats as multiple lines if | is used
   This course has 
   been created with
   the collaboration with
