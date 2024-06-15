@@ -16,7 +16,7 @@ category:
   - AWS
   - DevOps
   - AWS Certification
-course_dev: ["murthy","kavya","nirnay"]
+course_dev: ["murthy","kavya","nirnay"]      # list can be defined as line 19 or line 16 to 18
 dev_details:
   - name: "murthy"
     email: "support@manifoldailearning.in"
@@ -27,7 +27,7 @@ dev_details:
   - name: "nirnay"
     email: "support@manifoldailearning.in"
     role: "Editor"  
-  - {name: "navishka", email: "support@manifoldailearning.in", role: "Finance"}
+  - {name: "navishka", email: "support@manifoldailearning.in", role: "Finance"}     # nested list can be defined as line 21-23 or line 30
 short_description: >        # treats as one line if > is used
   This is a course for 
   AWS DevOps Professional
